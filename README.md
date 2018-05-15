@@ -1,0 +1,2 @@
+# DCGAN_with_Chainer
+これまでkerasでやっていましたが、kerasではdiscriminatorにBNを適用してうまく行った例が見つからなかったので、勉強用にChainerでDCGANを書いてみます。
